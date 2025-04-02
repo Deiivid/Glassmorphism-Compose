@@ -9,7 +9,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install foobar
 ```
-![Light Mode Example](screenshoots/android11light.png)
 
 ## Usage
 
@@ -105,7 +104,7 @@ Android 11📱
 Android 13📱
 
 🌙 Dark Mode Example
-![Dark Mode Example](https://github.com/Deiivid/Glassmorphism-Compose/blob/master/screenshoots/android13_dark1.png)
+![Dark Mode Example](https://raw.githubusercontent.com/Deiivid/Glassmorphism-Compose/master/screenshoots/android13_dark1.png)
 ![Dark Mode Example](https://github.com/Deiivid/Glassmorphism-Compose/blob/master/screenshoots/android13_dark2.png)
 
 🌞 Light Mode Example
